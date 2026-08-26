@@ -19,5 +19,8 @@ function copyWorkerEntrypoint() {
 
 export default defineConfig({
   base: './',
+  build: {
+    outDir: 'dist/client',
+  },
   plugins: [react(), sites(), copyWorkerEntrypoint()],
 });
