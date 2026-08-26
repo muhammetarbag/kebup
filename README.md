@@ -1,4 +1,4 @@
-# Altländer Kebabhaus
+
 
 Almanca ve İngilizce dil desteği, responsive menü, galeri ve demo sipariş akışı içeren React/Vite restoran sitesi.
 
